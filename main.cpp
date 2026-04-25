@@ -464,7 +464,7 @@ int main()
                                 loadData(U, no, Pa, pno, P, pid, C, cno);
                                 int pg;
                                 bool login;
-                                cout << "Enter Page Id: ";
+                                cout << "Enter your Page Id: ";
                                 cin >> pg;
 
                                 for (int i = 0; i < pno; i++)
