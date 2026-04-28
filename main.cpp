@@ -277,7 +277,7 @@ int main()
                                     if (option == 3)
                                     {
                                         loadData(U, no, Pa, pno, P, pid, C, cno);
-                                        cout << "-----Friend List-----" << endl;
+                                        cout << "-------Friend List-------" << endl;
                                         cout << "---------------------" << endl;
                                         if (U[id - 1].getFriendsNo() == 0)
                                         {
